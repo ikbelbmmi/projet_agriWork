@@ -1,0 +1,6 @@
+<?php 
+
+echo "test"; 
+echo "2e test";
+
+?>
